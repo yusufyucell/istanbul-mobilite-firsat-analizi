@@ -1,0 +1,16 @@
+# Ham ve indirilen veriler (scriptlerle yeniden üretilebilir)
+data/raw/
+data/external/
+# ~100 MB; src/build_monthly.py ile ~5 dk'da yeniden üretilir
+data/processed/toplu_tasima/
+*.part
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Sistem
+.DS_Store
+Thumbs.db
+desktop.ini

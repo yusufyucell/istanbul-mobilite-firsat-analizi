@@ -1,0 +1,12 @@
+pandas>=2.2,<3
+duckdb>=1.1
+geopandas>=1.0
+pyarrow>=15
+requests
+matplotlib
+seaborn
+folium
+mapclassify
+scipy
+statsmodels
+jupyter
